@@ -1,0 +1,9 @@
+
+quando começa a busca, total = -1;
+
+- verificar se o nó atual já foi verificado:
+	- caso sim retorna o total para comparação
+	- caso não, vida que segue
+-verificar se é a primeira busca:
+	- caso sim atualizar o valor total
+	-caso não vida que segue
